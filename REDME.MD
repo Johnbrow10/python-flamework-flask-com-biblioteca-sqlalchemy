@@ -8,3 +8,5 @@
 # funçao para deletar usuarios
 
 # usando login_required, para nao deixar visualizar o usuario se nao estiver logado
+
+# Finalizando o logout na aplicação
